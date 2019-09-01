@@ -1,7 +1,7 @@
 # stick-knot-gen
 Welcome to **stick-knot-gen**, a collection of scripts which efficiently generate and classify random stick knots in confinement. This code was developed by Thomas Eddy in collaboration with Clayton Shonkwiler for use in improving upper bounds of the stick number knot invariant. That work is summarized in the following texts:
-- [Improved Stick Number Upper Bounds](https://mountainscholar.org/handle/10217/195411)
-- [New Stick Number Bounds from Random Sampling of Confined Polygons](https://arxiv.org/)
+- Thomas D. Eddy. [Improved Stick Number Upper Bounds](https://mountainscholar.org/handle/10217/195411). Master's thesis, Colorado State University, 2019.
+- Thomas D. Eddy and Clayton Shonkwiler. [New Stick Number Bounds from Random Sampling of Confined Polygons](https://arxiv.org/). Preprint, 2019.
 
 This repository contains supplementary data referenced in the above works as well as the code used to generate the stated results. For an explanation of what is contained in the `data/` directory, please see the enclosed README file.
 
