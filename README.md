@@ -75,3 +75,10 @@ All code in this repository should be run using Python 2.7. Running the code dep
 - [plCurve](http://www.jasoncantarella.com/wordpress/software/plcurve/) version at least 7.8.6. Installing this software requires building from source so makes sure you have the appropriate command line tools like `autoconf`, etc.
 - [pyknotid](https://github.com/spocknots/pyknotid). Should be as easy as `pip install pyknotid`.
 - The scripts also require the common python libraries: `numpy`, `pandas`, and `sympy`. Each should be able to be installed using `pip`.
+
+## How to cite
+If you find this project useful, please consider citing the project itself and/or the paper explaining what it does:
+
+Thomas D. Eddy. stick-knot-gen. [https://github.com/thomaseddy/stick-knot-gen](https://github.com/thomaseddy/stick-knot-gen)
+
+Thomas D. Eddy and Clayton Shonkwiler. New Stick Number Bounds from Random Sampling of Confined Polygons. Preprint, 2019. [arXiv reference goes here](https://arxiv.org/)
