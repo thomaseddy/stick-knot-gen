@@ -79,6 +79,6 @@ All code in this repository should be run using Python 2.7. Running the code dep
 ## How to cite
 If you find this project useful, please consider citing the project itself and/or the paper explaining what it does:
 
-Thomas D. Eddy. stick-knot-gen. [https://github.com/thomaseddy/stick-knot-gen](https://github.com/thomaseddy/stick-knot-gen)
+Thomas D. Eddy. stick-knot-gen, efficiently generate and classify random stick knots in confinement. [https://github.com/thomaseddy/stick-knot-gen](https://github.com/thomaseddy/stick-knot-gen)
 
 Thomas D. Eddy and Clayton Shonkwiler. New Stick Number Bounds from Random Sampling of Confined Polygons. Preprint, 2019. [arXiv reference goes here](https://arxiv.org/)
