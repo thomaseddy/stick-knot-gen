@@ -3,7 +3,7 @@ Welcome to **stick-knot-gen**, a collection of scripts which efficiently generat
 - Thomas D. Eddy. [Improved Stick Number Upper Bounds](https://mountainscholar.org/handle/10217/195411). Master’s thesis, Colorado State University, 2019.
 - Thomas D. Eddy and Clayton Shonkwiler. [New Stick Number Bounds from Random Sampling of Confined Polygons](https://arxiv.org/). Preprint, 2019.
 
-This repository contains supplementary data referenced in the above works as well as the code used to generate the stated results. For an explanation of what is contained in the `data/` directory, please see the enclosed README file.
+This repository contains supplementary data referenced in the above works as well as the code used to generate the stated results. For an explanation of what is contained in the `data/` directory, please see the enclosed README file. A table giving the current best-known stick number upper bounds for all knots with crossing number 10 or fewer is given in `data/stick_number_upper_bounds.csv`.
 
 ## Basic usage
 
