@@ -3,7 +3,7 @@ Welcome to **stick-knot-gen**, a collection of scripts which efficiently generat
 - Thomas D. Eddy. [Improved Stick Number Upper Bounds](https://mountainscholar.org/handle/10217/195411). Master’s thesis, Colorado State University, 2019.
 - Thomas D. Eddy and Clayton Shonkwiler. [New Stick Number Bounds from Random Sampling of Confined Polygons](https://arxiv.org/). Preprint, 2019.
 
-This repository contains supplementary data referenced in the above works as well as the code used to generate the stated results. For an explanation of what is contained in the `data/` directory, please see the enclosed README file. A table giving the current best-known stick number upper bounds for all knots with crossing number 10 or fewer is given in `data/stick_number_upper_bounds.csv`.
+This repository contains supplementary data referenced in the above works as well as the code used to generate the stated results. For an explanation of what is contained in the `data/` directory, please see the enclosed README file. A table giving the current best stick number upper bounds for all knots with crossing number 10 or fewer is given in [`data/stick_number_upper_bounds.csv`](data/stick_number_upper_bounds.csv).
 
 ## Basic usage
 
@@ -81,4 +81,4 @@ If you find this project useful, please consider citing the project itself and/o
 
 Thomas D. Eddy. stick-knot-gen, efficiently generate and classify random stick knots in confinement. [https://github.com/thomaseddy/stick-knot-gen](https://github.com/thomaseddy/stick-knot-gen)
 
-Thomas D. Eddy and Clayton Shonkwiler. New Stick Number Bounds from Random Sampling of Confined Polygons. Preprint, 2019. [arXiv reference goes here](https://arxiv.org/)
+Thomas D. Eddy and Clayton Shonkwiler. New Stick Number Bounds from Random Sampling of Confined Polygons. Preprint, 2019. [arXiv:1909.00917 [math.GT]](https://arxiv.org/abs/1909.00917)
