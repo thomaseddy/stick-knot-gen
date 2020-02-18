@@ -38,7 +38,7 @@ Knot Frequency Counts:
 ```
 The above command generates 100000 stick knots (`-mi` flag), each with 10 edges (`-ne` flag), in a tight confinement radius of 1.01 (`-cr` flag).
 
-The results are written out to a csv file, `blah.csv`, which contains information on individual knots that were generated, including vertex coordinates. At the present verbosity (the `-v` flag), the only knots which are recorded in the csv file are those where the number of edges (specified by the `-ne` flag) are less than or equal to the best-known stick number upper bound for that knot. In this case, the only knot written to the csv file is the 8_8 knot. To record every knot, use verbosity `-v 3`.
+The results are written out to a csv file, `blah.csv`, which contains information on individual knots that were generated, including vertex coordinates. At the present verbosity (the `-v` flag), the only knots which are recorded in the csv file are those where the number of edges (specified by the `-ne` flag) are less than or equal to the best-known stick number upper bound for that knot. In this case, the only knot written to the csv file is the 8_7 knot. To record every knot, use verbosity `-v 3`.
 
 The knot frequency counts are also recorded and written out as a pickled dictionary object in the location specified by the `-kc` flag. A summary of the frequency counts are printed to the command line, as above.
 
