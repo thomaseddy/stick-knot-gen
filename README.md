@@ -2,7 +2,7 @@
 Welcome to **stick-knot-gen**, a collection of scripts which efficiently generate and classify random stick knots in confinement. This code was developed by Thomas Eddy in collaboration with Clayton Shonkwiler for use in improving upper bounds of the stick number knot invariant. That work is summarized in the following texts:
 - Thomas D. Eddy. [Improved Stick Number Upper Bounds](https://mountainscholar.org/handle/10217/195411). Master’s thesis, Colorado State University, 2019.
 - Thomas D. Eddy and Clayton Shonkwiler. [New Stick Number Bounds from Random Sampling of Confined Polygons](https://arxiv.org/abs/1909.00917). Preprint, 2019. [arXiv:1909.00917 [math.GT]](https://arxiv.org/abs/1909.00917)
-- Ryan Blair, Thomas D. Eddy, Nathaniel Morrison, and Clayton Shonkwiler. [Knots with Exactly 10 Sticks](https://arxiv.org/abs/1909.06947). Preprint, 2019. [arXiv:1909.06947 [math.GT]](https://arxiv.org/abs/1909.06947)
+- Ryan Blair, Thomas D. Eddy, Nathaniel Morrison, and Clayton Shonkwiler. [Knots with Exactly 10 Sticks](https://www.worldscientific.com/doi/10.1142/S021821652050011X). Journal of Knot Theory and Its Ramifications **29** (2020), no. 3, 2050011. [arXiv:1909.06947 [math.GT]](https://arxiv.org/abs/1909.06947)
 
 This repository contains supplementary data referenced in the above works as well as the code used to generate the stated results. For an explanation of what is contained in the `data/` directory, please see the enclosed README file. A table giving the current best stick number upper bounds for all knots with crossing number 10 or fewer is given in [`data/stick_number_upper_bounds.csv`](data/stick_number_upper_bounds.csv).
 
