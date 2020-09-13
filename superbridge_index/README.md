@@ -14,7 +14,7 @@ The `knots` folder contains vertex coordinates for each of the 22 knots mentione
 
 The coordinates given here are double-precision floats; in the paper it was convenient to round these coordinates to three significant figures and scale them to be integers. Hence, the coordinates given in the paper can be reconstructed using the Python expression `round(1000*coord)` or an analogous operation in any other language.
 
-This same information is also stored in a SQLite database knots.db along with some basic metadata. In particular, the following code demonstrates how to extract the vertex coordinates from the database into Python.
+This same information is also stored in a SQLite database `knots.db` along with some basic metadata. In particular, the following code demonstrates how to extract the vertex coordinates from the database into Python.
 ```
 import sqlite3
 conn = sqlite3.connect('superbridge_index/knots.db')
