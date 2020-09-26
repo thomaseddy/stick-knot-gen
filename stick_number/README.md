@@ -9,7 +9,7 @@ A table of stick number upper bounds, which reflects the current state of the ar
 ## Minimal stick equilateral knots
 The `mseq_knots` folder contains minimal stick vertex coordinates for every knot type we observed while working on the paper. Importantly, this folder contains minimal stick knots for every knot with 10 crossings or fewer, representing the current best-known minimal stick representations of these knots. Each set of coordinates is stored as tab separated ASCII text files, which can be conveniently read into KnotPlot or easily reformatted for other software.
 
-For further convenience, this same information is stored is a SQLite database `mseq_knots.db` along with some basic metadata. In particular, the following code demonstrates how easy it is to extract the vertex coordinates from the database into Python.
+For further convenience, this same information is stored in a SQLite database `mseq_knots.db` along with some basic metadata. In particular, the following code demonstrates how easy it is to extract the vertex coordinates from the database into Python.
 ```
 import sqlite3
 conn = sqlite3.connect('stick_number/mseq_knots.db')
