@@ -1,7 +1,7 @@
 # Superbridge index data
 This folder contains the data referred to in the paper 
 
-* Clayton Shonkwiler. New Computations of the Superbridge Index. Preprint, 2020.
+* Clayton Shonkwiler. [New Computations of the Superbridge Index](https://arxiv.org/abs/2009.13648). Preprint, 2020. [arXiv:2009.13648 [math.GT]](https://arxiv.org/abs/2009.13648)
 
 
 ## Table of superbridge indices
