@@ -3,7 +3,7 @@ Welcome to **stick-knot-gen**, a collection of scripts which efficiently generat
 - Thomas D. Eddy. [Improved Stick Number Upper Bounds](https://mountainscholar.org/handle/10217/195411). Master’s thesis, Colorado State University, 2019.
 - Thomas D. Eddy and Clayton Shonkwiler. [New Stick Number Bounds from Random Sampling of Confined Polygons](https://arxiv.org/abs/1909.00917). Preprint, 2019. [arXiv:1909.00917 [math.GT]](https://arxiv.org/abs/1909.00917)
 - Ryan Blair, Thomas D. Eddy, Nathaniel Morrison, and Clayton Shonkwiler. [Knots with Exactly 10 Sticks](https://www.worldscientific.com/doi/10.1142/S021821652050011X). _Journal of Knot Theory and Its Ramifications_ **29** (2020), no. 3, 2050011. [arXiv:1909.06947 [math.GT]](https://arxiv.org/abs/1909.06947)
-- Clayton Shonkwiler. New Computations of the Superbridge Index. Preprint, 2020. 
+- Clayton Shonkwiler. [New Computations of the Superbridge Index](https://arxiv.org/abs/2009.13648). Preprint, 2020. [arXiv:2009.13648 [math.GT]](https://arxiv.org/abs/2009.13648)
 
 This repository contains supplementary data referenced in the above works as well as the code used to generate the stated results. For an explanation of what is contained in the `stick_number/` and `superbridge_index/` directories, please see the enclosed README files. A table giving the current best stick number upper bounds for all knots with crossing number 10 or fewer is given in [`stick_number/stick_number_upper_bounds.csv`](stick_number/stick_number_upper_bounds.csv), and a current table of superbridge indices for knots up to 10 crossings is in [`superbridge_index/superbridge_values.csv`](superbridge/superbridge_values.csv).
 
