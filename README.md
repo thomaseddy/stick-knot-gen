@@ -60,12 +60,12 @@ The `-p` flag allows the user to specify the maximum number of concurrent proces
 ### Identify knot type
 These scripts use the `pyknotid` module to classify stick knots by their type. The `identify_knot.py` script can be used to identify text files representing stick knots whose vertices are specified as tab separated values (the format commonly accepted by KnotPlot). All the stick knots in `data/mseq_knots/` are in this format. To identify the knot type, simply point to the file:
 ```
-$ python identify_knot.py -kf data/mseq_knots/K14n17306.txt
+$ python identify_knot.py -kf stick_number/mseq_knots/K14n17306.txt
 K14n17306
 ```
 The command will print the identifier of the knot, as above. If `pyknotid` cannot make a definitive determination, then this command will return as list of identifiers, as below:
 ```
-$ python identify_knot.py -kf data/mseq_knots/K11n34.txt
+$ python identify_knot.py -kf stick_number/mseq_knots/K11n34.txt
 ['K11n34', 'K11n42']
 ```
 Identifications are determined primarily based on HOMFLY-PT polynomial and hyperbolic volume. Consequently, mutant knot pairs will require additional invariants to make a definitive determination.
