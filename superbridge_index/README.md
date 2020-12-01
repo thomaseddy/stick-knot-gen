@@ -9,6 +9,8 @@ A table of exact values of the superbridge index—or, when the exact value is n
 
 Ranges of possible values are indicated as intervals. So for example the superbridge index of the 5_2 knot is either 3 or 4, and this is indicated in the table with `[3,4]`. Likewise, the superbridge index of 10_55 is 4, 5, or 6, and this is indicated with `[4,6]`.
 
+Also, all knots up to 16 crossings for which the exact value of superbridge index is known are given in `exact_values.csv`. For example, to our knowledge the only 16-crossing knot for which the exact superbridge index is known is K16n783154, better known as the (8,3)-torus knot, which has superbridge index equal to 6. Again, the plan is to keep this table current.
+
 ## Knot coordinates
 The `knots` folder contains vertex coordinates for each of the 33 knots mentioned in the paper. Each set of coordinates is stored in a tab-separated ASCII text file, which can be conveniently read into KnotPlot or easily reformatted for other software.
 
