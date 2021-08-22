@@ -1,5 +1,7 @@
 # Supplementary data
-This folder contains the supplementary data referred to in the paper [New Stick Number Bounds from Random Sampling of Confined Polygons](https://doi.org/10.1080/10586458.2021.1926000) ([arXiv link](https://arxiv.org/abs/1909.00917)).
+This folder contains the supplementary data referred to in the paper 
+
+- Thomas D. Eddy and Clayton Shonkwiler. [New Stick Number Bounds from Random Sampling of Confined Polygons](https://doi.org/10.1080/10586458.2021.1926000). _Experimental Mathematics_ (2021), DOI: 10.1080/10586458.2021.1926000. [arXiv:1909.00917 [math.GT]](https://arxiv.org/abs/1909.00917)
 
 Of primary interest are minimal equilateral (unit length edges) stick coordinates for each of the 2415 different knot types we observed while generating the data for the paper. Also included are frequency counts of how many times each knot type was observed while randomly generating stick knots with various numbers of edges and at various confinements.
 
