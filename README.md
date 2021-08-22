@@ -1,7 +1,7 @@
 # stick-knot-gen
 Welcome to **stick-knot-gen**, a collection of scripts which efficiently generate and classify random stick knots in confinement. This code was developed by Thomas Eddy in collaboration with Clayton Shonkwiler for use in improving upper bounds of the stick number knot invariant. That work is summarized and used in the following texts:
 - Thomas D. Eddy. [Improved Stick Number Upper Bounds](https://mountainscholar.org/handle/10217/195411). Master’s thesis, Colorado State University, 2019.
-- Thomas D. Eddy and Clayton Shonkwiler. [New Stick Number Bounds from Random Sampling of Confined Polygons](https://doi.org/10.1080/10586458.2021.1926000). _Experimental Mathematics_ (2021), DOI: 10.1080/10586458.2021.1926000. [arXiv:1909.00917 [math.GT]](https://arxiv.org/abs/1909.00917)
+- Thomas D. Eddy and Clayton Shonkwiler. [New stick number bounds from random sampling of confined polygons](https://doi.org/10.1080/10586458.2021.1926000). _Experimental Mathematics_ (2021), DOI: 10.1080/10586458.2021.1926000. [arXiv:1909.00917 [math.GT]](https://arxiv.org/abs/1909.00917)
 - Ryan Blair, Thomas D. Eddy, Nathaniel Morrison, and Clayton Shonkwiler. [Knots with exactly 10 sticks](https://doi.org/10.1142/S021821652050011X). _Journal of Knot Theory and Its Ramifications_ **29** (2020), no. 3, 2050011. [arXiv:1909.06947 [math.GT]](https://arxiv.org/abs/1909.06947)
 - Clayton Shonkwiler. [New computations of the superbridge index](https://doi.org/10.1142/S0218216520500960). _Journal of Knot Theory and Its Ramifications_ **29** (2020), no. 14, 2050096. [arXiv:2009.13648 [math.GT]](https://arxiv.org/abs/2009.13648)
 
@@ -83,4 +83,4 @@ If you find this project useful, please consider citing the project itself and/o
 
 Thomas D. Eddy. stick-knot-gen, efficiently generate and classify random stick knots in confinement. [https://github.com/thomaseddy/stick-knot-gen](https://github.com/thomaseddy/stick-knot-gen)
 
-Thomas D. Eddy and Clayton Shonkwiler. New Stick Number Bounds from Random Sampling of Confined Polygons. Preprint, 2019. [arXiv:1909.00917 [math.GT]](https://arxiv.org/abs/1909.00917)
+Thomas D. Eddy and Clayton Shonkwiler. New stick number bounds from random sampling of confined polygons. _Experimental Mathematics_ (2021), DOI: 10.1080/10586458.2021.1926000.
