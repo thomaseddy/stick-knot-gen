@@ -1,15 +1,17 @@
 # Supplementary data
-This folder contains the supplementary data referred to in the paper 
+This folder contains the supplementary data referred to in the papers 
 
 - Thomas D. Eddy and Clayton Shonkwiler. [New stick number bounds from random sampling of confined polygons](https://doi.org/10.1080/10586458.2021.1926000). _Experimental Mathematics_ (2021), DOI: 10.1080/10586458.2021.1926000. [arXiv:1909.00917 [math.GT]](https://arxiv.org/abs/1909.00917)
 
-Of primary interest are minimal equilateral (unit length edges) stick coordinates for each of the 2415 different knot types we observed while generating the data for the paper. Also included are frequency counts of how many times each knot type was observed while randomly generating stick knots with various numbers of edges and at various confinements.
+- Clayton Shonkwiler. All prime knots through 10 crossings have superbridge index ≤ 5. Preprint, 2021.
+
+Of primary interest are minimal equilateral (unit length edges) stick coordinates for each of the 2415 different knot types we observed while generating the data for these papers. Also included are frequency counts of how many times each knot type was observed while randomly generating stick knots with various numbers of edges and at various confinements.
 
 ## Best stick number upper bounds
 A table of stick number upper bounds, which reflects the current state of the art, for each knot with crossing number 10 or less is given in `stick_number/stick_number_upper_bounds.csv`.
 
 ## Minimal stick equilateral knots
-The `mseq_knots` folder contains minimal stick vertex coordinates for every knot type we observed while working on the paper. Importantly, this folder contains minimal stick knots for every knot with 10 crossings or fewer, representing the current best-known minimal stick representations of these knots. Each set of coordinates is stored as tab separated ASCII text files, which can be conveniently read into KnotPlot or easily reformatted for other software.
+The `mseq_knots` folder contains equilateral stick knots for every knot with 10 crossings or fewer, representing the current best-known minimal equilateral stick representations of these knots (for all knots except 9_29, these are also minimal stick representations). This folder also contains vertex coordinates for every knot type observed while working on the Eddy--Shonkwiler paper listed above. Each set of coordinates is stored as tab separated ASCII text files, which can be conveniently read into KnotPlot or easily reformatted for other software.
 
 For further convenience, this same information is stored in a SQLite database `mseq_knots.db` along with some basic metadata. In particular, the following code demonstrates how easy it is to extract the vertex coordinates from the database into Python.
 ```
@@ -22,7 +24,7 @@ vertices = eval(vertices_string)
 ```
 
 ## Knot frequency counts
-Over the course of this project we randomly generated and classified 220 billion stick knots. We generated 70 billion knots each for 9-, 10-, and 11-stick knots. For each of these 70 billion: 50 billion were generated at a confinement radius of 1.01; 10 billion at confinement 1.1; and 10 billion at confinement 1.5. Additionally, we generated 10 billion 12-stick knots, all at a confinement radius of 1.01.
+For the Eddy--Shonkwiler paper we randomly generated and classified 220 billion stick knots. We generated 70 billion knots each for 9-, 10-, and 11-stick knots. For each of these 70 billion: 50 billion were generated at a confinement radius of 1.01; 10 billion at confinement 1.1; and 10 billion at confinement 1.5. Additionally, we generated 10 billion 12-stick knots, all at a confinement radius of 1.01.
 
 The distribution of knot types for these generated knots may be of interest to some users. The `frequency_counts` folder includes four tables containing this information. Each table gives the count of stick knots identified to be of a particular type, broken down by confinement radius. The method of generation and identification are described in the paper referenced above.
 
