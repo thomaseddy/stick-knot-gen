@@ -1,14 +1,16 @@
 # Superbridge index data
 This folder contains the data referred to in the paper 
 
-* Clayton Shonkwiler. [New computations of the superbridge index](https://doi.org/10.1142/S0218216520500960). _Journal of Knot Theory and Its Ramifications_ **29** (2020), no. 14, 2050096. [arXiv:2009.13648 [math.GT]](https://arxiv.org/abs/2009.13648)
+- Clayton Shonkwiler. [New computations of the superbridge index](https://doi.org/10.1142/S0218216520500960). _Journal of Knot Theory and Its Ramifications_ **29** (2020), no. 14, 2050096. [arXiv:2009.13648 [math.GT]](https://arxiv.org/abs/2009.13648)
 
-As well as results on superbridge index from the paper
+As well as results on superbridge index from the papers
 
-* Clayton Shonkwiler. All prime knots through 10 crossings have superbridge index ≤ 5. Preprint, 2021.
+- Ryan Blair, Thomas D. Eddy, Nathaniel Morrison, and Clayton Shonkwiler. [Knots with exactly 10 sticks](https://doi.org/10.1142/S021821652050011X). _Journal of Knot Theory and Its Ramifications_ **29** (2020), no. 3, 2050011. [arXiv:1909.06947 [math.GT]](https://arxiv.org/abs/1909.06947)
+
+- Clayton Shonkwiler. [All prime knots through 10 crossings have superbridge index ≤ 5](https://arxiv.org/abs/2112.10902). Preprint, 2021. [arXiv:2112.10902 [math.GT]](https://arxiv.org/abs/2112.10902).
 
 ## Table of superbridge indices
-A table of exact values of the superbridge index -- or, when the exact value is not known, the possible values it might be -- for each knot with crossing number 10 or less is given in `superbridge_values.csv`. This table reflects the current state of the art and the intent is to keep it up to date.
+A table of exact values of the superbridge index—or, when the exact value is not known, the possible values it might be—for each knot with crossing number 10 or less is given in `superbridge_values.csv`. This table reflects the current state of the art and the intent is to keep it up to date.
 
 Ranges of possible values are indicated as intervals. So for example the superbridge index of the 5_2 knot is either 3 or 4, and this is indicated in the table with `[3,4]`.
 
