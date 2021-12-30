@@ -75,7 +75,7 @@ The `identify_knot.py` file also contains handy functions which can be imported 
 
 ## Dependencies
 All code in this repository should be run using Python 2.7. Running the code depends on installing:
-- [plCurve](http://www.jasoncantarella.com/wordpress/software/plcurve/) version at least 8.0.6. Installing this software requires building from source so makes sure you have the appropriate command line tools like `autoconf`, etc.
+- [plCurve](http://www.jasoncantarella.com/wordpress/software/plcurve/) version at least 8.0.6. Installing this software requires building from source so make sure you have the appropriate command line tools like `autoconf`, etc.
 - [pyknotid](https://github.com/spocknots/pyknotid). Should be as easy as `pip install pyknotid`.
 - The scripts also require the common python libraries: `numpy`, `pandas`, and `sympy`. Each should be able to be installed using `pip`.
 
