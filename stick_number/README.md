@@ -7,7 +7,9 @@ This folder contains the supplementary data referred to in and results from the 
 
 - Clayton Shonkwiler. [All prime knots through 10 crossings have superbridge index ≤ 5](https://arxiv.org/abs/2112.10902). _Journal of Knot Theory and Its Ramifications_, to appear. [arXiv:2112.10902 [math.GT]](https://arxiv.org/abs/2112.10902).
 
-Of primary interest are minimal equilateral (unit length edges) stick coordinates for each of the 2415 different knot types we observed while generating the data for these papers. Also included are frequency counts of how many times each knot type was observed while randomly generating stick knots with various numbers of edges and at various confinements.
+- Clayton Shonkwiler. New superbridge index calculations from non-minimal realizations. Preprint, 2022.
+
+Of primary interest are minimal equilateral (unit length edges) stick coordinates for each of the 2422 different knot types we observed while generating the data for these papers. Also included are frequency counts of how many times each knot type was observed while randomly generating stick knots with various numbers of edges and at various confinements.
 
 ## Best stick number upper bounds
 A table of stick number upper bounds, which reflects the current state of the art, for each knot with crossing number 10 or less is given in `stick_number_upper_bounds.csv`. Also, the table `exact_values.csv` gives the exact value of stick number for all knots through 16 crossings for which it is known.
@@ -31,7 +33,7 @@ For the Eddy–Shonkwiler paper we randomly generated and classified 220 billion
 The distribution of knot types for these generated knots may be of interest to some users. The `frequency_counts` folder includes four tables containing this information. Each table gives the count of stick knots identified to be of a particular type, broken down by confinement radius. The method of generation and identification are described in the paper referenced above.
 
 ### Caveats
-We believe that the knot identifications presented in this supplementary data are quite accurate on the whole. Each of the 2415 minimal stick knots in the `mseq_knots` folder has been double-checked through an alternative identification pipeline, verifying the identified label in each case.
+We believe that the knot identifications presented in this supplementary data are quite accurate on the whole. Each of the 2422 minimal stick knots in the `mseq_knots` folder has been double-checked through an alternative identification pipeline, verifying the identified label in each case.
 
 For the frequency counts, however, there is some uncertainty on the labels due to the limitations of our identification effort. All identifications were done through a combination of the classification functions of plCurve and pyknotid. There is a particular blind spot when it comes to knots with crossing number 16 or higher. Neither of these tools was able to identify knots with more than 15 crossings. In fact, if the HOMFLY–PT polynomial uniquely matched one knot in this set of smaller (≤15) crossing knots, it would have been labeled as such. As seen in the data, we were able to identify some 16-crossing knots through post-processing with Mathematica, but it is possible that some other 16-crossing knots slipped through the cracks and were mislabeled in the tables. Based on the frequency of 15-crossing knots, whose labels are definitive, we believe that the number of mislabeled 16-crossing knots could only possibly be a handful of the billions of knots we generated.
 
