@@ -1,13 +1,13 @@
 # Supplementary data
 This folder contains the supplementary data referred to in and results from the papers 
 
-- Thomas D. Eddy and Clayton Shonkwiler. [New stick number bounds from random sampling of confined polygons](https://doi.org/10.1080/10586458.2021.1926000). _Experimental Mathematics_ (2021), DOI: 10.1080/10586458.2021.1926000. [arXiv:1909.00917 [math.GT]](https://arxiv.org/abs/1909.00917)
+- Thomas D. Eddy and Clayton Shonkwiler. [New stick number bounds from random sampling of confined polygons](https://doi.org/10.1080/10586458.2021.1926000). _Experimental Mathematics_ (2021), DOI: 10.1080/10586458.2021.1926000. [arXiv:1909.00917 [math.GT]](https://arxiv.org/abs/1909.00917).
 
-- Ryan Blair, Thomas D. Eddy, Nathaniel Morrison, and Clayton Shonkwiler. [Knots with exactly 10 sticks](https://doi.org/10.1142/S021821652050011X). _Journal of Knot Theory and Its Ramifications_ **29** (2020), no. 3, 2050011. [arXiv:1909.06947 [math.GT]](https://arxiv.org/abs/1909.06947)
+- Ryan Blair, Thomas D. Eddy, Nathaniel Morrison, and Clayton Shonkwiler. [Knots with exactly 10 sticks](https://doi.org/10.1142/S021821652050011X). _Journal of Knot Theory and Its Ramifications_ **29** (2020), no. 3, 2050011. [arXiv:1909.06947 [math.GT]](https://arxiv.org/abs/1909.06947).
 
 - Clayton Shonkwiler. [All prime knots through 10 crossings have superbridge index ≤ 5](https://arxiv.org/abs/2112.10902). _Journal of Knot Theory and Its Ramifications_, to appear. [arXiv:2112.10902 [math.GT]](https://arxiv.org/abs/2112.10902).
 
-- Clayton Shonkwiler. New superbridge index calculations from non-minimal realizations. Preprint, 2022.
+- Clayton Shonkwiler. [New superbridge index calculations from non-minimal realizations](https://arxiv.org/abs/2206.06950). Preprint, 2022. [arXiv: 2206.06950 [math.GT]](https://arxiv.org/abs/2206.06950).
 
 Of primary interest are minimal equilateral (unit length edges) stick coordinates for each of the 2422 different knot types we observed while generating the data for these papers. Also included are frequency counts of how many times each knot type was observed while randomly generating stick knots with various numbers of edges and at various confinements.
 

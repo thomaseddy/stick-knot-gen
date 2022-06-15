@@ -1,15 +1,15 @@
 # Superbridge index data
 This folder contains the data referred to in the papers
 
-- Clayton Shonkwiler. [New computations of the superbridge index](https://doi.org/10.1142/S0218216520500960). _Journal of Knot Theory and Its Ramifications_ **29** (2020), no. 14, 2050096. [arXiv:2009.13648 [math.GT]](https://arxiv.org/abs/2009.13648)
+- Clayton Shonkwiler. [New computations of the superbridge index](https://doi.org/10.1142/S0218216520500960). _Journal of Knot Theory and Its Ramifications_ **29** (2020), no. 14, 2050096. [arXiv:2009.13648 [math.GT]](https://arxiv.org/abs/2009.13648).
 
-- Clayton Shonkwiler. New superbridge index calculations from non-minimal realizations. Preprint, 2022.
+- Clayton Shonkwiler. [New superbridge index calculations from non-minimal realizations](https://arxiv.org/abs/2206.06950). Preprint, 2022. [arXiv: 2206.06950 [math.GT]](https://arxiv.org/abs/2206.06950).
 
 As well as results on superbridge index from the papers
 
-- Ryan Blair, Thomas D. Eddy, Nathaniel Morrison, and Clayton Shonkwiler. [Knots with exactly 10 sticks](https://doi.org/10.1142/S021821652050011X). _Journal of Knot Theory and Its Ramifications_ **29** (2020), no. 3, 2050011. [arXiv:1909.06947 [math.GT]](https://arxiv.org/abs/1909.06947)
+- Ryan Blair, Thomas D. Eddy, Nathaniel Morrison, and Clayton Shonkwiler. [Knots with exactly 10 sticks](https://doi.org/10.1142/S021821652050011X). _Journal of Knot Theory and Its Ramifications_ **29** (2020), no. 3, 2050011. [arXiv:1909.06947 [math.GT]](https://arxiv.org/abs/1909.06947).
 
-- Clayton Shonkwiler. [All prime knots through 10 crossings have superbridge index ≤ 5](https://arxiv.org/abs/2112.10902). _Journal of Knot Theory and Its Ramifications_, to appear. [arXiv:2112.10902 [math.GT]](https://arxiv.org/abs/2112.10902).
+- Clayton Shonkwiler. [All prime knots through 10 crossings have superbridge index ≤ 5](https://doi.org/10.1142/S0218216522500237). _Journal of Knot Theory and Its Ramifications_, doi: 10.1142/S0218216522500237. [arXiv:2112.10902 [math.GT]](https://arxiv.org/abs/2112.10902).
 
 ## Table of superbridge indices
 A table of exact values of the superbridge index—or, when the exact value is not known, the possible values it might be—for each knot with crossing number 10 or less is given in `superbridge_values.csv`. This table reflects the current state of the art and the intent is to keep it up to date.
