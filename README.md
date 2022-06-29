@@ -4,7 +4,7 @@ Welcome to **stick-knot-gen**, a collection of scripts which efficiently generat
 - Thomas D. Eddy and Clayton Shonkwiler. [New stick number bounds from random sampling of confined polygons](https://doi.org/10.1080/10586458.2021.1926000). _Experimental Mathematics_ (2021), DOI: 10.1080/10586458.2021.1926000. [arXiv:1909.00917 [math.GT]](https://arxiv.org/abs/1909.00917)
 - Ryan Blair, Thomas D. Eddy, Nathaniel Morrison, and Clayton Shonkwiler. [Knots with exactly 10 sticks](https://doi.org/10.1142/S021821652050011X). _Journal of Knot Theory and Its Ramifications_ **29** (2020), no. 3, 2050011. [arXiv:1909.06947 [math.GT]](https://arxiv.org/abs/1909.06947)
 - Clayton Shonkwiler. [New computations of the superbridge index](https://doi.org/10.1142/S0218216520500960). _Journal of Knot Theory and Its Ramifications_ **29** (2020), no. 14, 2050096. [arXiv:2009.13648 [math.GT]](https://arxiv.org/abs/2009.13648)
-- Clayton Shonkwiler. [All prime knots through 10 crossings have superbridge index ≤ 5](https://doi.org/10.1142/S0218216522500237). _Journal of Knot Theory and Its Ramifications_, doi: 10.1142/S0218216522500237. [arXiv:2112.10902 [math.GT]](https://arxiv.org/abs/2112.10902).
+- Clayton Shonkwiler. [All prime knots through 10 crossings have superbridge index ≤ 5](https://doi.org/10.1142/S0218216522500237). _Journal of Knot Theory and Its Ramifications_ **31** (2022), no. 4, 2250023. [arXiv:2112.10902 [math.GT]](https://arxiv.org/abs/2112.10902).
 - Clayton Shonkwiler. [New superbridge index calculations from non-minimal realizations](https://arxiv.org/abs/2206.06950). Preprint, 2022. [arXiv:2206.06950 [math.GT]](https://arxiv.org/abs/2206.06950).
 
 

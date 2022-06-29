@@ -5,7 +5,7 @@ This folder contains the supplementary data referred to in and results from the 
 
 - Ryan Blair, Thomas D. Eddy, Nathaniel Morrison, and Clayton Shonkwiler. [Knots with exactly 10 sticks](https://doi.org/10.1142/S021821652050011X). _Journal of Knot Theory and Its Ramifications_ **29** (2020), no. 3, 2050011. [arXiv:1909.06947 [math.GT]](https://arxiv.org/abs/1909.06947).
 
-- Clayton Shonkwiler. [All prime knots through 10 crossings have superbridge index ≤ 5](https://arxiv.org/abs/2112.10902). _Journal of Knot Theory and Its Ramifications_, to appear. [arXiv:2112.10902 [math.GT]](https://arxiv.org/abs/2112.10902).
+- Clayton Shonkwiler. [All prime knots through 10 crossings have superbridge index ≤ 5](https://doi.org/10.1142/S0218216522500237). _Journal of Knot Theory and Its Ramifications_ **31** (2022), no. 4, 2250023. [arXiv:2112.10902 [math.GT]](https://arxiv.org/abs/2112.10902).
 
 - Clayton Shonkwiler. [New superbridge index calculations from non-minimal realizations](https://arxiv.org/abs/2206.06950). Preprint, 2022. [arXiv: 2206.06950 [math.GT]](https://arxiv.org/abs/2206.06950).
 
