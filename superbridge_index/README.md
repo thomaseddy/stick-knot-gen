@@ -3,7 +3,7 @@ This folder contains the data referred to in the papers
 
 - Clayton Shonkwiler. [New computations of the superbridge index](https://doi.org/10.1142/S0218216520500960). _Journal of Knot Theory and Its Ramifications_ **29** (2020), no. 14, 2050096. [arXiv:2009.13648 [math.GT]](https://arxiv.org/abs/2009.13648).
 
-- Clayton Shonkwiler. [New superbridge index calculations from non-minimal realizations](https://arxiv.org/abs/2206.06950). Preprint, 2022. [arXiv: 2206.06950 [math.GT]](https://arxiv.org/abs/2206.06950).
+- Clayton Shonkwiler. [New superbridge index calculations from non-minimal realizations](https://doi.org/10.1142/S0218216522500638). _Journal of Knot Theory and Its Ramifications_ **31** (2022), no. 10, 2250063. [arXiv: 2206.06950 [math.GT]](https://arxiv.org/abs/2206.06950).
 
 As well as results on superbridge index from the papers
 

@@ -7,7 +7,7 @@ This folder contains the supplementary data referred to in and results from the 
 
 - Clayton Shonkwiler. [All prime knots through 10 crossings have superbridge index ≤ 5](https://doi.org/10.1142/S0218216522500237). _Journal of Knot Theory and Its Ramifications_ **31** (2022), no. 4, 2250023. [arXiv:2112.10902 [math.GT]](https://arxiv.org/abs/2112.10902).
 
-- Clayton Shonkwiler. [New superbridge index calculations from non-minimal realizations](https://arxiv.org/abs/2206.06950). Preprint, 2022. [arXiv: 2206.06950 [math.GT]](https://arxiv.org/abs/2206.06950).
+- Clayton Shonkwiler. [New superbridge index calculations from non-minimal realizations](https://doi.org/10.1142/S0218216522500638). _Journal of Knot Theory and Its Ramifications_ **31** (2022), no. 10, 2250063. [arXiv: 2206.06950 [math.GT]](https://arxiv.org/abs/2206.06950).
 
 Of primary interest are minimal equilateral (unit length edges) stick coordinates for each of the 2422 different knot types we observed while generating the data for these papers. Also included are frequency counts of how many times each knot type was observed while randomly generating stick knots with various numbers of edges and at various confinements.
 
