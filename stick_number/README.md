@@ -1,7 +1,7 @@
 # Supplementary data
 This folder contains the supplementary data referred to in and results from the papers 
 
-- Thomas D. Eddy and Clayton Shonkwiler. [New stick number bounds from random sampling of confined polygons](https://doi.org/10.1080/10586458.2021.1926000). _Experimental Mathematics_ **31** (2022), no. 4, 1373--1395. [arXiv:1909.00917 [math.GT]](https://arxiv.org/abs/1909.00917).
+- Thomas D. Eddy and Clayton Shonkwiler. [New stick number bounds from random sampling of confined polygons](https://doi.org/10.1080/10586458.2021.1926000). _Experimental Mathematics_ **31** (2022), no. 4, 1373–1395. [arXiv:1909.00917 [math.GT]](https://arxiv.org/abs/1909.00917).
 
 - Ryan Blair, Thomas D. Eddy, Nathaniel Morrison, and Clayton Shonkwiler. [Knots with exactly 10 sticks](https://doi.org/10.1142/S021821652050011X). _Journal of Knot Theory and Its Ramifications_ **29** (2020), no. 3, 2050011. [arXiv:1909.06947 [math.GT]](https://arxiv.org/abs/1909.06947).
 
